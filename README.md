@@ -28,4 +28,4 @@ You can run the solution using visual studio and test it using Postman.
 
 Nancy.Testing is used with xUnit. The "Modules" folder includes a single xUnit test that runs using a "headless browser" with no dependency on network, browser or any of the other .NET packages such as System.Web. 
 
-Currently, there is 2 passing tests and 1 failing test (a test that hasn't been implemented).
+Currently, there are 2 passing tests and 1 failing test (a test that hasn't been implemented).
